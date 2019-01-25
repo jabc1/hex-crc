@@ -1,6 +1,6 @@
 #ifndef GLOBAL_H
 #define GLOBAL_H
-
+//pic单片机使用宏定义定义管教
 #define true 1
 #define false 0
 
@@ -35,3 +35,4 @@
 //#define _pin2(x) PIN ## x
 
 #endif
+
